@@ -1,0 +1,14 @@
+D:\Проекты\Class Group c#\obj\Debug\net8.0\Class Group c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Class Group c#\obj\Debug\net8.0\Class Group c#.AssemblyInfoInputs.cache
+D:\Проекты\Class Group c#\obj\Debug\net8.0\Class Group c#.AssemblyInfo.cs
+D:\Проекты\Class Group c#\obj\Debug\net8.0\Class Group c#.csproj.CoreCompileInputs.cache
+D:\Проекты\Class Group c#\bin\Debug\net8.0\Class Group c#.exe
+D:\Проекты\Class Group c#\bin\Debug\net8.0\Class Group c#.deps.json
+D:\Проекты\Class Group c#\bin\Debug\net8.0\Class Group c#.runtimeconfig.json
+D:\Проекты\Class Group c#\bin\Debug\net8.0\Class Group c#.dll
+D:\Проекты\Class Group c#\bin\Debug\net8.0\Class Group c#.pdb
+D:\Проекты\Class Group c#\obj\Debug\net8.0\Class Group c#.dll
+D:\Проекты\Class Group c#\obj\Debug\net8.0\refint\Class Group c#.dll
+D:\Проекты\Class Group c#\obj\Debug\net8.0\Class Group c#.pdb
+D:\Проекты\Class Group c#\obj\Debug\net8.0\Class Group c#.genruntimeconfig.cache
+D:\Проекты\Class Group c#\obj\Debug\net8.0\ref\Class Group c#.dll
